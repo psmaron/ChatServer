@@ -1,5 +1,5 @@
 # Introduction
-This is a example TCP sockets ChatServer build on top of boost::asio library with PostgreSQL connection through yandex::ozo library. Source code was extracted from much greater project and not everything may work, as tons of other code was removed - it's only meant as an example on how to use certain technologies named in **Technology Stack** section of this README.  
+This is an example ChatServer build on top of TCP sockets from `boost::asio` library with PostgreSQL connection through `yandex::ozo` library. Source code was extracted from much, much greater project and not everything may work, as tons of other code was removed - it's only meant as an example on how to use certain technologies named in **Technology Stack** section of this README.  
 Server implements simple chat: clients can set their usernames, query for other users and send messages.
 
 # Getting Started
